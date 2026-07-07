@@ -73,3 +73,17 @@ I am an **Infrastructure and DevOps Engineer** from Russia, passionate about aut
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL_/_PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+---
+
+### 📊 Мои метрики GitHub
+
+<div align="center">
+  <br/>
+  <a href="https://github.com/malikovai">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikovai&layout=compact&theme=matrix&hide_border=true&langs_count=6" alt="Malikovai Top Languages Card" />
+  </a>
+  <br/>
+  <a href="https://github.com/malikovai">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=malikovai&theme=matrix&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Malikovai GitHub Streak" />
+  </a>
+</div>
