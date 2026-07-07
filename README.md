@@ -76,14 +76,14 @@ I am an **Infrastructure and DevOps Engineer** from Russia, passionate about aut
 
 ---
 
-### 📈 GitHub Stats & Activity
+### 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malikovai&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Malikovai Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikovai&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165"/>
-</div>
-
-<div align="center">
+  <a href="https://github.com/malikovai">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=malikovai&theme=github-dark&hide_border=true&area=true" alt="Malikovai Activity Graph" width="100%" />
+  </a>
+  <br/><br/>
+  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/malikovai/malikovai/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/malikovai/malikovai/output/github-contribution-grid-snake.svg">
