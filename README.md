@@ -73,3 +73,20 @@ I am an **Infrastructure and DevOps Engineer** from Russia, passionate about aut
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL_/_PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+---
+
+### 📈 GitHub Stats & Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=malikovai&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Malikovai Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikovai&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Top Languages" height="165"/>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/malikovai/malikovai/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/malikovai/malikovai/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/malikovai/malikovai/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
