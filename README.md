@@ -4,3 +4,8 @@
 <div id="header" align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyOW1iZWsxcnhmbzN4cW1vbDE0ZXoxem5xZXYwMGpmbjE1cnRrb2VtaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4N1DGuIDCssSk0iaQj/giphy.gif" width="500"/>
 </div>
+<div id="badges">
+  <a href="https://ru.linkedin.com/in/artur-malikov-82a33b3a9">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
