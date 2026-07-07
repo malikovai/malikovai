@@ -86,15 +86,7 @@ I am an **Infrastructure and DevOps Engineer** from Russia, passionate about aut
 <img src="https://img.shields.io/badge/MySQL_/_PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 ---
-
-### 📈 GitHub Stats & Activity
-
-<div align="center">
-  <a href="https://github.com/malikovai">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=malikovai&theme=github-dark&hide_border=true&area=true" alt="Malikovai Activity Graph" width="100%" />
-  </a>
-  <br/><br/>
-  
+ 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/malikovai/malikovai/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/malikovai/malikovai/output/github-contribution-grid-snake.svg">
