@@ -27,6 +27,17 @@ I am an **Infrastructure and DevOps Engineer** from Russia, passionate about aut
 
 ### 🛠️ Tech Stack & Tools
 
+**🏗️ Virtualization & Bare-Metal** <br>
+<img src="https://img.shields.io/badge/VMware_vSphere_6%2F7-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+<img src="https://img.shields.io/badge/Proxmox_VE-E74C3C?style=for-the-badge&logo=proxmox&logoColor=white" />
+<img src="https://img.shields.io/badge/KVM-FF0000?style=for-the-badge&logo=linux&logoColor=white" />
+
+**🐳 Containerization & Orchestration** <br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img src="https://img.shields.io/badge/Helm-0F163D?style=for-the-badge&logo=helm&logicColor=white" />
+
 **🔄 Version Control, CI/CD & Code Quality** <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitLab_CI-181717?style=for-the-badge&logo=gitlab&logoColor=white" />
@@ -34,31 +45,31 @@ I am an **Infrastructure and DevOps Engineer** from Russia, passionate about aut
 <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white" />
 <img src="https://img.shields.io/badge/Nexus-000000?style=for-the-badge&logo=sonatype&logoColor=white" />
 
-**🐳 Containerization & Orchestration** <br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/Helm-0F163D?style=for-the-badge&logo=helm&logoColor=white" />
-
-**🏗️ Infrastructure as Code (IaC) & Configuration** <br>
+**⚙️ Infrastructure as Code & Configuration** <br>
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
 <img src="https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white" />
 
-**🌐 Networking & Routing** <br>
+**🌐 Networking, Routing & Services** <br>
 <img src="https://img.shields.io/badge/TCP%2FIP_&_IPv4%2FIPv6-232F3E?style=for-the-badge" />
 <img src="https://img.shields.io/badge/BGP_|_OSPF_|_RIP-005571?style=for-the-badge" />
 <img src="https://img.shields.io/badge/LAN_|_VLAN_|_WAN-0078D4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/QoS_|_VoIP_|_FHRP_|_STP-4B0082?style=for-the-badge" />
+<img src="https://img.shields.io/badge/QoS_|_FHRP_|_STP-4B0082?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/L4_/_L7_Balancing-232F3E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Squid_Proxy-0072C6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bind9_DNS-4682B4?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Yandex_Cloud-000000?style=for-the-badge&logo=yandex&logoColor=red" />
 
-**🔒 Network Security & VPN** <br>
+**🔒 Network Security, VPN & Auth** <br>
+<img src="https://img.shields.io/badge/LDAP_|_Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/TACACS+_%2F_FreeRADIUS-333333?style=for-the-badge" />
 <img src="https://img.shields.io/badge/VPN_&_Cryptography-881798?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Next--Generation_Firewall-E34F26?style=for-the-badge" />
 <img src="https://img.shields.io/badge/IPS_/_IDS-B30000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/IT_Audit_&_Protection-333333?style=for-the-badge" />
+
+**🎙️ VoIP & Telephony** <br>
+<img src="https://img.shields.io/badge/Cisco_CUCM-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Asterisk_PBX-F37022?style=for-the-badge&logo=asterisk&logoColor=white" />
 
 **📊 Monitoring, Analysis & Observability** <br>
 <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
@@ -66,17 +77,17 @@ I am an **Infrastructure and DevOps Engineer** from Russia, passionate about aut
 <img src="https://img.shields.io/badge/Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Traffic_Analysis-1679A7?style=for-the-badge" />
 
 **🐧 OS, Scripting & Databases** <br>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Linux_Debian_/_CentOS_Based-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL_/_PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📈 GitHub Stats & Activity
 
 <div align="center">
   <a href="https://github.com/malikovai">
